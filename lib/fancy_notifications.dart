@@ -1,7 +1,6 @@
 library fancy_notifications;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'src/ui/notification_widget.dart';
+export 'src/ui/custom_actions.dart';
+export 'src/ui/notification_layouts.dart';
+export 'src/services/notification_service.dart';

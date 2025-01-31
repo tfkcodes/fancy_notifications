@@ -1,7 +1,7 @@
 name: fancy_notifications
 description: A highly customizable push notification UI plugin for Flutter.
 version: 0.0.1
-homepage: https://github.com/yourusername/fancy_notifications
+homepage: https://github.com/tfkcodes/fancy_notifications
 environment:
   sdk: ">=2.18.0 <3.0.0"
 dependencies:
